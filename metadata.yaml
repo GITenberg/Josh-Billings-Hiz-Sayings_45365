@@ -1,0 +1,29 @@
+_repo: Josh-Billings-Hiz-Sayings_45365
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45365-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Billings, Josh
+    aliases:
+    - Shaw, Henry W.
+    - Shaw, Henry Wheeler
+    birthdate: 1818
+    deathdate: 1885
+    gutenberg_agent_id: '38348'
+    url: http://www.gutenberg.org/2009/agents/38348
+description: ''
+gutenberg_issued: '2014-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcc 'PN'
+title: Josh Billings, Hiz Sayings
+url: http://www.gutenberg.org/ebooks/45365
